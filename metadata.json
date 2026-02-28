@@ -1,0 +1,5 @@
+{
+  "name": "gaortools",
+  "description": "Herramienta profesional para crear, extraer e inspeccionar archivos PFX/P12 y certificados SSL.",
+  "requestFramePermissions": []
+}
